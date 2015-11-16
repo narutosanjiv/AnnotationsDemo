@@ -1,0 +1,13 @@
+.gradle
+/local.properties
+.idea
+.DS_Store
+app/app.iml
+JustAsk.iml
+/build
+app/app-release_.apk
+AnnotationsDemo.iml
+/app/app.iml
+*.apk
+/*.iml
+app/*.log

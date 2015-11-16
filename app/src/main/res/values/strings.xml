@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnnotationsDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="click_button_text">Text After Button click </string>
+</resources>
